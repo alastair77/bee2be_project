@@ -1,0 +1,123 @@
+.container {
+    background-image: url('../public/image_home_bee_1200.jpg'); 
+    background-size: cover;
+    background-position: center center;
+    /* filter: grayscale(100%); */
+    /* filter: blur(100%); */
+    /* filter: contrast(100%); */
+    /* filter: opacity(100%); */
+    /* background-repeat: no-repeat; */
+    /* min-height: 100vh; */
+}
+
+.text_home{
+    padding: 100px;
+    width: 50%;
+}
+.text_outsourcing {
+    font-weight:bold; 
+     /* width: 50%; */
+     padding-bottom: 50px;     
+}
+.container{
+    color: white;
+}
+
+.services_bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 15px 0px;
+    /* background-color: #578a9b; */
+    background-color: #809838;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);     
+}
+
+.service{
+    color: white;    
+}
+
+.section1 {
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+}
+.section1_1 {
+    width: 66%;
+    margin-right: 50px;
+}
+.section1_2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);     
+}
+.section_nav{
+    display: flex;
+    flex-direction: column;
+    /* width: 70%;*/
+    /* margin: 0px 100px; */
+}
+.section_nav_row{
+    display: flex;
+    flex-direction: row;
+    justify-content:center; 
+}
+.section_nav_bloc{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #bec1c2;
+    width: 30%;
+    margin: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+.image_nav{
+    width: 250px;
+    height: auto;
+}
+.titre_section_nav{
+    font-weight: bold;
+    /* color: #578a9b */
+    color: #242768;
+}
+.section_nav_text{
+    background-color: #e2e2e2;
+    padding: 15px;
+    /* margin: 15px; */
+}
+.div_message {
+    display: flex;
+    /* background-color:#578a9b; */
+    text-align: center;
+    margin:50px 20%;
+    justify-content: center;  
+    color: #242768;
+    font-weight: bold;
+    /* background-color: #e2e2e2; */
+     
+}
+.image_diagram{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.text_work_together{
+    background-color: #e2e2e2;;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+    padding: 30px 0px;
+}
+.text_contactanos {
+    color: #242768;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+

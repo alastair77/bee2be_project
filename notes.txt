@@ -1,0 +1,22 @@
+//import { Carousel } from "react-responsive-carousel";
+<Carousel>
+          <div>
+            <Link href="/about">
+              <Image src={bee2be1} alt="image_1" />
+              {/* <img src="/1.png" alt="image1" /> */}
+              <p className="legend">Quienes somos</p>
+            </Link>
+          </div>
+          <div>
+            <Link href="/contacts">
+              <Image src={bee2be1} alt="image_1" />
+              <p className="legend">Contactanos</p>
+            </Link>
+          </div>
+          <div>
+            <Link href="/jobs">
+              <Image src={bee2be1} alt="image_1" />
+              <p className="legend">Trabaja con nosotros</p>
+            </Link>
+          </div>
+        </Carousel>
