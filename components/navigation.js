@@ -2,7 +2,7 @@ import Container from "react-bootstrap/Container";
 // import styles from '../public/styles.css'
 import Link from "next/link";
 import Image from "next/image";
-import logo from "../public/logo.PNG";
+import logo from "../public/logoBee.png";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
